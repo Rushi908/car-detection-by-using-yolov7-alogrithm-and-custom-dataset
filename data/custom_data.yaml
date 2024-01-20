@@ -1,0 +1,8 @@
+
+train: ./data/train/images
+val: ./data/val/images
+
+nc: 2
+
+# class names
+names: ['1','2']
